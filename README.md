@@ -1,1 +1,2 @@
 # Modelisation-de-la-concentration-maximale-journaliere-en-ozone
+Nous étudions ici un jeu de données contenant la concentration maximale d'ozone mesurée chaque jour de l'été 2006 à Rennes. Il contient également la température, la nébulosité et la vitesse du vent mesurées à 9h, 12h et 15h, ainsi que la direction principale du vent et la présence ou non de pluie. Notre objectif est d'établir un modèle qui explique au mieux la concentration maximale d'ozone en fonction de ces différentes variables.
